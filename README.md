@@ -1,4 +1,7 @@
-# test coverage for  [gpio (v0.2.7)](https://github.com/EnotionZ/GpiO)  [![npm package](https://img.shields.io/npm/v/npmtest-gpio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gpio.svg)](https://travis-ci.org/npmtest/node-npmtest-gpio)
+# npmtest-gpio
+
+#### basic test coverage for  [gpio (v0.2.7)](https://github.com/EnotionZ/GpiO)  [![npm package](https://img.shields.io/npm/v/npmtest-gpio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gpio.svg)](https://travis-ci.org/npmtest/node-npmtest-gpio)
+
 #### Talk to your Raspberry PI's general purpose inputs and outputs
 
 [![NPM](https://nodei.co/npm/gpio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gpio)
@@ -75,7 +78,8 @@
         "url": "git://github.com/EnotionZ/GpiO.git"
     },
     "scripts": {},
-    "version": "0.2.7"
+    "version": "0.2.7",
+    "bin": {}
 }
 ```
 
